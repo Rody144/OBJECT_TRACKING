@@ -1,3 +1,5 @@
+![1_QOJ4KNBl_6bT6iAA9ByOiQ](https://github.com/user-attachments/assets/66753f60-c372-410c-88d9-d05ae156a9f1)
+
 # 🎥 Object Tracking Application
 
 This is a **Streamlit-based web application** for real-time object tracking in videos. The app uses **OpenCV** for video processing and object detection, allowing users to upload a video file and visualize tracked objects with bounding boxes.
