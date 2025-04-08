@@ -40,7 +40,7 @@ Follow these steps to set up and run the application:
    ```
 
 4. **Open in Browser**:
-this app deployed in streamlit cloud.
+this app deployed in streamlit cloud.[Here] https://objecttrackingproject.streamlit.app/ 
 
 ---
 
